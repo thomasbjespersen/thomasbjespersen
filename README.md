@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thomasbjespersen
-- 👀 I’m interested in Game Development, Front-end Development, Testing
+- 👀 I’m interested in Game Development
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 Reach me @thomasbjespersen here on GitHub
 
