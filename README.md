@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @thomasbjespersen
-- 👀 I’m interested in Game Development
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 👋 Hi, I’m @thomasbjespersen 
 - 📫 Reach me @thomasbjespersen here on GitHub
 
 <!---
