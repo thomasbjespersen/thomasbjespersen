@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thomasbjespersen 
-- 📫 Reach me @thomasbjespersen here on GitHub
+- 📫 Reach me @thomasbjespersen here on GitHub or on LinkedIn https://www.linkedin.com/in/thomas-jespersen-b77132202/
 
 <!---
 thomasbjespersen/thomasbjespersen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
